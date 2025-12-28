@@ -20,6 +20,8 @@
 
 *[Explicit commitments to uphold human rights, prevent coercion, and protect individuals from abuse in all mental health settings.]*
 
+* **Freedom from Coercion:** All mental health interventions must be based on the free, prior, and informed consent of the individual. Involuntary treatment and seclusion must be prohibited under all circumstances, as they constitute fundamental violations of personal autonomy and integrity.
+
 ## 5. Accountability and Transparency
 
 *[Frameworks for holding service providers, funders, and policymakers accountable, and for ensuring transparent decision‑making.]*
